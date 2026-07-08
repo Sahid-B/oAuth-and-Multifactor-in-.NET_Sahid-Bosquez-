@@ -1,0 +1,9 @@
+[Oo]bj/
+[Bb]in/
+publish/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+client_secret*.json
